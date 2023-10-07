@@ -61,3 +61,32 @@ font-weight: 400;
 line-height: 30px;
 
 }
+
+/* section relateded styles start  */
+.section2{
+    display:flex;
+    justify-content:center;
+    
+}
+#image1{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+
+}
+#image2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding-bottom: 51px;
+    margin-left: 24px;
+    margin-right: 24px;
+    
+}
+    
+#image3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+     
+}
+.section2-paragraph{
+    text-align: center;
+}
