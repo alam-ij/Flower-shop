@@ -1,0 +1,38 @@
+/* Header Relateded Styles */
+.header-section1 {
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.header-left {
+    margin-left: 240px;
+    margin-top: 197px;
+    max-width: 700px;
+
+}
+
+.header-left-title {
+    margin-bottom: 32px;
+}
+
+.header-left-paragraph {
+    margin-top: 0px;
+}
+
+.header-left-button {
+    margin-top: 32px;
+    margin-bottom: 167px;
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+
+}
+
+.header-right {
+    /* margin-top: 50px;
+    margin-right: 240px;
+    height: 800px; */
+}
