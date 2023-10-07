@@ -66,26 +66,28 @@ line-height: 30px;
 .section2{
     display:flex;
     justify-content:center;
+    margin-top: 48px;
     
 }
 #image1{
     border-radius: 300px 300px 0px 0px;
 background: rgba(167, 33, 98, 0.15);
-
+padding: 110px 76px 0px 76px;
 }
 #image2{
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
-    padding-bottom: 51px;
     margin-left: 24px;
     margin-right: 24px;
+    padding:117px 47px 51px 47px ;
+
     
 }
     
 #image3{
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
-     
+    padding:67px 75px 0px 75px ;
 }
 .section2-paragraph{
     text-align: center;
