@@ -210,3 +210,45 @@ margin-left: 240px;
 #section6-image3{
     margin-right: 24px;
 }
+/* section7 related styles start here  */
+.section7{
+    background-image: url('./Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 128px;
+    margin-left: 240px;
+    margin-right: 240px;
+    
+}
+.section7-title{
+    padding-top: 122px;
+    padding-left: 534px;
+    padding-right: 533px; 
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 16px;
+}
+.section7-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 0px;
+    
+}
+#section7-second-part{
+    display: flex;
+    gap: 10px;
+    padding-left:287px ;
+    padding-bottom: 121px;
+flex-shrink: 0;
+height: 64px;
+}
+.section7-button{
+    width: 150px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+background: #E55473;    
+}
