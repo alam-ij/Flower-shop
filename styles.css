@@ -119,3 +119,59 @@ padding-left: 80px;
 #section3-image3{
     padding-left: 15px;
 }
+/* Section4 Styles start here  */
+.section4{
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+margin-top: 128px;
+}
+.section4-left-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 230px;
+    margin-left: 423px; 
+    margin-right: 315px;
+    margin-bottom: 24px;
+    
+
+}
+.section4-left-title-off{
+    color: #E55473;
+    font-size: 40px;
+    font-weight: 800;
+
+
+}
+.section4-left-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0px auto;
+    max-width: 594px;
+    margin-top: 0px;
+    margin-bottom: 32px;
+    margin-left: 395px;
+    
+       
+}
+.section4-left-button{
+    display: inline-flex;
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+background: #E55473;
+margin-top: 0px;
+margin-bottom: 182px;
+margin-left: 642px;
+     
+}
+.section4-right-image{
+    margin-top: 100px;
+    margin-right: 429px;
+    margin-bottom: 100px;
+}
