@@ -1,6 +1,7 @@
 /* Header Relateded Styles */
 .header-section1 {
     display: flex;
+    justify-content: center;
     background: rgba(229, 84, 115, 0.10);
 }
 
@@ -200,6 +201,7 @@ margin-top: 128px;
 /* section6 related styles start here  */
 .section6{
 margin-left: 240px;
+text-align: center;
 }
 #section6-image1{
     margin-right: 24px;
@@ -214,11 +216,11 @@ margin-left: 240px;
 .section7{
     background-image: url('./Rectangle\ 9.png');
     background-repeat: no-repeat;
-    text-align: center;
+    background-position: center;
     margin-top: 128px;
-    margin-left: 240px;
+    margin-left: 500px;
     margin-right: 240px;
-    
+    text-align: center;
 }
 .section7-title{
     padding-top: 122px;
@@ -228,6 +230,7 @@ margin-left: 240px;
 font-size: 40px;
 font-weight: 800;
 margin-bottom: 16px;
+
 }
 .section7-paragraph{
     color: rgba(39, 39, 39, 0.60);
@@ -240,10 +243,12 @@ margin-bottom: 16px;
 #section7-second-part{
     display: flex;
     gap: 10px;
-    padding-left:287px ;
+    padding-left:200px ;
     padding-bottom: 121px;
 flex-shrink: 0;
 height: 64px;
+justify-content: center;
+align-items: center;
 }
 .section7-button{
     width: 150px;
@@ -251,4 +256,44 @@ height: 64px;
     flex-shrink: 0;
     border-radius: 8px;
 background: #E55473;    
+}
+
+/* Footer related styles start here  */
+
+.footer-tag{
+text-align: center;
+background: #111010;
+}
+.footer-tag-titile1{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    padding-top: 128px;
+    margin-bottom: 0px;
+      
+}
+#footer-tag-flower{
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+      
+}
+.footer-tag-title2{
+    margin: 0px auto;
+    max-width: 625px;
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 24px; 
+    margin-bottom: 24px;
+}
+.footer-tag-title3{
+    
+    color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-weight: 400;
+margin-top: 0px;
+padding-bottom: 128px;
+
 }
